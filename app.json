@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "CrossBudgetApp",
+    "slug": "CrossBudgetApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/budget.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/budget.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/budget.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/budget.png"
+    }
+  }
+}
